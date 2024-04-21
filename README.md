@@ -3,8 +3,10 @@
 
 ## 🛠 Technical Stack
 *   Java language
-*   PostgreSQL, H2, Liquibase
-*   Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Hibernate
+*   SQL, JDBC, Hibernate, PostgreSQL, H2, Liquibase
+*   Spring Framework, Spring Boot, Spring Test, Spring Data
+*   JUnit, Mockito
+*   Log4j, Slf4j
 *   Maven
 
 ## My projects
