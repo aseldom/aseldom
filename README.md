@@ -1,4 +1,5 @@
 ## Hi! My name is Alexander. 
+I'm a Java Backend Developer.
 
 ## 🛠 Technical Stack
 *   Java language
