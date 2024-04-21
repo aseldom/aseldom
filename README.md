@@ -8,10 +8,10 @@
 *   Maven
 
 ## My projects
-* "job4j_dreamjob" - [Dream Job using Spring Boot and Sql2o](https://github.com/aseldom/job4j_dreamjob)
-* "job4j_cinema_web" - [Cinema using Spring Boot and sql2o](https://github.com/aseldom/job4j_cinema_web)
-* "job4j_accidents" - [Accidents using Spring Boot, Spring Security and Hibernate](https://github.com/aseldom/job4j_accidents)
-* "job4j_todo" - [ToDo list using Spring Boot and Hibernate](https://github.com/aseldom/job4j_todo)
+* [Dream Job](https://github.com/aseldom/job4j_dreamjob) - Веб-приложение по размещению вакансий и резюме. Stack: Spring Boot and sql2o.
+* [Cinema](https://github.com/aseldom/job4j_cinema_web) - Веб-приложение "Кинотеатр" с возможностью заказа билета на определенный сеанс. Stack: Spring Boot and sql2o.
+* [Accidents](https://github.com/aseldom/job4j_accidents) - Веб-приложение "Проишествия". Позволяет вести учет проишествий на дороге. Stack: Spring Boot, Spring Security and Hibernate.
+* [ToDo list](https://github.com/aseldom/job4j_todo) - Веб-приложение "Список задач". Stack: Spring Boot, Hibernate.
 
 -----
 <p align='center'>
